@@ -1,4 +1,4 @@
-const {app, session, protocol} = require("electron");
+const {app} = require("electron");
 const BrowserWindow = require("electron").BrowserWindow;
 const { spawn } = require('child_process');
 
